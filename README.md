@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Lucas 👋
+### Data Analyst
 
-<!--
-**lucas-pianezzi/lucas-pianezzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn complex datasets into actionable business insights using Python, SQL, and Power BI. Currently finalizing a comprehensive Data Analyst training program (RNCP Level 6).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL
+- **BI & Tools:** Power BI, Excel, Jupyter Notebook
+- **Core Skills:** Exploratory Data Analysis, Predictive Modeling, Time Series, Data Governance & GDPR
+
+---
+
+### 📌 Featured Projects
+*(Projects will appear here shortly)*
+
+---
+
+📫 **Connect with me:** [LinkedIn]((https://fr.linkedin.com/in/lucas-pianezzi-85290420a))

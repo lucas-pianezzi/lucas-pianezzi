@@ -13,7 +13,7 @@ I turn complex datasets into actionable business insights using Python, SQL, and
 ---
 
 ### 📌 Featured Projects
-*(Projects will appear here shortly)*
+- **[Real Estate Relational Database & SQL Analytics](https://github.com/lucas-pianezzi/laplace-immo-sql-database)** — 3NF database architecture, GDPR compliance, and complex SQL reporting (SQLite).
 
 ---
 

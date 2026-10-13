@@ -17,4 +17,4 @@ I turn complex datasets into actionable business insights using Python, SQL, and
 
 ---
 
-📫 **Connect with me:** [LinkedIn]((https://fr.linkedin.com/in/lucas-pianezzi-85290420a))
+📫 **Connect with me:** [LinkedIn](https://fr.linkedin.com/in/lucas-pianezzi-85290420a)

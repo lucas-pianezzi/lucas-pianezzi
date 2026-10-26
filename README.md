@@ -14,6 +14,7 @@ I turn complex datasets into actionable business insights using Python, SQL, and
 
 ### 📌 Featured Projects
 - **[Real Estate Relational Database & SQL Analytics](https://github.com/lucas-pianezzi/laplace-immo-sql-database)** — 3NF database architecture, GDPR compliance, and complex SQL reporting (SQLite).
+- - **[Global Project Portfolio Monitoring & Variance Analytics](https://github.com/lucas-pianezzi/sanitoral-project-portfolio-powerbi)** — Interactive Power BI dashboard, Star Schema modeling, custom Gantt visuals, and DAX KPIs.
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Lucas Pianezzi, Data Analyst
 
-Je transforme des données complexes en enseignements concrets pour la décision, avec Python, SQL et Power BI. Je termine actuellement une formation de Data Analyst (titre RNCP niveau 6).
+Je transforme des données complexes pour les prises de décisions concrètes, avec Python, SQL et Power BI. Je termine actuellement une formation de Data Analyst (titre RNCP niveau 6).
 
 ### Compétences
 - **Langages :** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL

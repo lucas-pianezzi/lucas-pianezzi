@@ -10,7 +10,7 @@ Je transforme des données complexes pour les prises de décisions concrètes, a
 - **Savoir-faire :** analyse exploratoire, modélisation prédictive, séries temporelles, gouvernance des données et RGPD
 
 ### Projets
-| Projet | En bref |
+| Projet | Résumé |
 |---|---|
 | [Base de données immobilière et analyse SQL](https://github.com/lucas-pianezzi/laplace-immo-sql-database) | Base SQLite en 3NF conforme au RGPD, 12 requêtes métier, analyse du marché immobilier 2020 |
 | [Suivi d'un portefeuille de projets (Power BI)](https://github.com/lucas-pianezzi/project-monitoring-powerbi-dashboard) | Tableau de bord interactif, modèle en étoile, mesures DAX, diagramme de Gantt personnalisé |

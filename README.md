@@ -15,7 +15,7 @@ Je transforme des données complexes pour les prises de décisions concrètes, a
 | [Base de données immobilière et analyse SQL](https://github.com/lucas-pianezzi/laplace-immo-sql-database) | Base SQLite en 3NF conforme au RGPD, 12 requêtes métier, analyse du marché immobilier 2020 |
 | [Suivi d'un portefeuille de projets (Power BI)](https://github.com/lucas-pianezzi/project-monitoring-powerbi-dashboard) | Tableau de bord interactif, modèle en étoile, mesures DAX, diagramme de Gantt personnalisé |
 
-📫 [LinkedIn](https://fr.linkedin.com/in/lucas-pianezzi-85290420a)
+📫 [LinkedIn](https://fr.linkedin.com/in/lucas-pianezzi-85290420a) · 📄 [CV (PDF)](https://github.com/lucas-pianezzi/lucas-pianezzi/blob/main/cv/CV_Lucas_Pianezzi_FR.pdf)
 
 ---
 
@@ -37,4 +37,4 @@ I turn complex datasets into actionable business insights using Python, SQL and 
 | [Real Estate Relational Database & SQL Analytics](https://github.com/lucas-pianezzi/laplace-immo-sql-database/blob/main/README.en.md) | GDPR-compliant 3NF SQLite database, 12 business queries, 2020 property market analysis |
 | [Global Project Portfolio Monitoring (Power BI)](https://github.com/lucas-pianezzi/project-monitoring-powerbi-dashboard/blob/main/README.en.md) | Interactive dashboard, star schema, DAX measures, custom Gantt chart |
 
-📫 [LinkedIn](https://fr.linkedin.com/in/lucas-pianezzi-85290420a)
+📫 [LinkedIn](https://fr.linkedin.com/in/lucas-pianezzi-85290420a) · 📄 [Resume (PDF)](https://github.com/lucas-pianezzi/lucas-pianezzi/blob/main/cv/CV_Lucas_Pianezzi_EN.pdf)

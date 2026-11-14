@@ -5,7 +5,7 @@
 Je transforme des données complexes pour les prises de décisions concrètes, avec Python, SQL et Power BI. Je termine actuellement une formation de Data Analyst (titre RNCP niveau 6).
 
 ### Compétences
-- **Langages :** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL
+- **Langages :** Python (Pandas, NumPy, SciPy, statsmodels, Scikit-learn, Prophet, Matplotlib, Seaborn), SQL
 - **BI et outils :** Power BI, Excel, Jupyter Notebook
 - **Savoir-faire :** analyse exploratoire, modélisation prédictive, séries temporelles, gouvernance des données et RGPD
 
@@ -28,7 +28,7 @@ Je transforme des données complexes pour les prises de décisions concrètes, a
 I turn complex datasets into actionable business insights using Python, SQL and Power BI. I am currently completing a Data Analyst training program (RNCP Level 6).
 
 ### Skills
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL
+- **Languages:** Python (Pandas, NumPy, SciPy, statsmodels, Scikit-learn, Prophet, Matplotlib, Seaborn), SQL
 - **BI & tools:** Power BI, Excel, Jupyter Notebook
 - **Core skills:** exploratory data analysis, predictive modelling, time series, data governance & GDPR
 
